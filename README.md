@@ -1,8 +1,4 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Ochi.design clone using React, Tailwind and Framer motion
+- Successfully created a fully responsive and eye-sparkling Ochi Website using React, Tailwind and Framer motion
+- This project revealed my website building abilities where my thoughts are out-of-the box and pretty much surprised myself.
+- ![Screenshot 2024-03-08 191218](https://github.com/chiillbro/Ochi_Design/assets/144758027/89e9ff97-eacc-4ec9-8ee2-a8e3773b07e8)
